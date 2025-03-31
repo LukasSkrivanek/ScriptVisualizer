@@ -1,5 +1,5 @@
-# Task
-My task for Intership.
+# ScriptVisualizer
+My MacOS app for coding
 You can download code and build project for mac.
 
 
